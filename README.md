@@ -10,6 +10,7 @@ I have also included two landing pages that I created. One clone was designed of
 - Transaction email: showcases my ability to produce viable email receipts that promote costumer confidence in the brand.
 - Promotion email: showcases my ability to explain events that promote costumer engagement in a clean fashion.
 - Newsletter email: showcases my ability to get the word out to our costumers and build an engaged audience.
+
 <br>
-- Independent Academy Folder: contains HTML, CSS, JS, and media necessary for a standard landing page with professional design, responsive and interactive elements. 
+- Independent Academy Folder: contains HTML, CSS, JS, and media necessary for a standard landing page with professional design, responsive and interactive elements.
 - The Burger Folder: contains HTML, CSS, JS, and media necessary for a professional, commercial, landing page
